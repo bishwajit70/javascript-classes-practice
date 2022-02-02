@@ -1,0 +1,26 @@
+1. javascript math-mdn
+	a) Math.abs();
+	b) Math.ceil();
+	c) Math.floor();
+	d) Math.round();
+	e) Math.random();
+	f) Math.power();
+	g) Math.min();
+2.swap.js // destructuring
+3. Comparison among numbers.
+a) Compare Two and Compare Three.
+1. Write a function to find the largest numver of three numbers./
+Create a function that takes three numbers as input parameter and returns you the largest number of the three.
+2. Write a function to find the smallest of three numbers
+
+1. Add elements of an array.
+2. Find the lowest element of an array.
+1. Fibonacci Number create.
+
+========================
+1. Find Odd number from an array.
+2. Find Even numbers from an array.
+3. Find duplicate names 
+
+
+

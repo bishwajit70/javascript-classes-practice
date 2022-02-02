@@ -199,6 +199,7 @@ function bestFriend(myBestFriends) {
     }
     return largename;
 }
-let myBestFriends = ['Chitta Ranjan', 'Tusher', 'Nishith Kumar Banik', 'Solaiman Haider Sarkar Bhuiyan', 'kabir'];
+let myBestFriends = ['Chitta Ranjan', 'Tusher', 'Nishith Kumar Banik', 'Solaiman Haider Sarkar Bhuiyan', 'kabir', 'Ikhtiar Udddin Muhammad Bin Bakhtiar Khilji'];
 let myBestFriend = bestFriend(myBestFriends);
-console.log(myBestFriend);
+console.log("My best friend is ", myBestFriend);
+

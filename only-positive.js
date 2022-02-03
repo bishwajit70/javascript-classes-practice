@@ -5,9 +5,12 @@ function onlyPositive(myNumbers) {
         if (number > 0) {
             positiveNumbers.push(number);
         }
+        else if (number < 0) {
+            return positiveNumbers;
+        }
     }
-    return positiveNumbers;
+    // return positiveNumbers;
 }
-let myNumbers = [8, 9, 10, 7, 6, 2, 1, -1, -3, -5];
+let myNumbers = [8, 9, 10, -1, 7, 6, 2, 1, -1, -3, -5];
 let positiveNumbers = onlyPositive(myNumbers);
 console.log(positiveNumbers);

@@ -13,4 +13,4 @@ function onlyPositive(myNumbers) {
 }
 let myNumbers = [8, 9, 10, -1, 7, 6, 2, 1, -1, -3, -5];
 let positiveNumbers = onlyPositive(myNumbers);
-console.log(positiveNumbers);
+console.log('My positive numbers before negative numbers', positiveNumbers);

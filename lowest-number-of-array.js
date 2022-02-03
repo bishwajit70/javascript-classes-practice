@@ -9,6 +9,6 @@ function lowestNumber(myNumbers) {
     }
     return lowestNumber;
 }
-let myNumbers = [19, 30, 40, 58, 53, 70, 20, 18, 12, 85];
+let myNumbers = [19, 30, 40, 58, 53, 70, 20, 18, 12, 85, 6];
 let myLowestNumber = lowestNumber(myNumbers);
 console.log(myLowestNumber);
